@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋, i'm *Nopde*
 
-<!--
-**nopde/nopde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges -->
+![](https://komarev.com/ghpvc/?username=nopde&color=red)
 
-Here are some ideas to get you started:
+- [x] ***PROGRAMMER***
+- [x] ***GAME DEVELOPER***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Languages**
+
+<p align="left">
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' height='42px'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' height='42px'>
+</p>
+
+## **Game Engines**
+
+<p align="left">
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg' height='42px'/>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg' height='42px'/>
+</p>
