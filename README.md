@@ -8,6 +8,11 @@
 
 ## **Languages**
 
+🇪🇸
+🇺🇸
+
+## **Programming languages**
+
 <p align="left">
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' height='42px'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' height='42px'>
