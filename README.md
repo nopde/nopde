@@ -11,5 +11,6 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' height='42px'>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' height='42px'>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' height='42px'>
 </p>
