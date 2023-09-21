@@ -15,5 +15,5 @@
 </p>
 
 ## **Projects**
-<p href="https://github.com/nopde/vector/" target="_blank">Vector</p>
-<p href="https://github.com/nopde/vector-web/" target="_blank">Vector Website</p>
+- <a href="https://github.com/nopde/vector/" target="_blank">Vector</a>
+- <a href="https://github.com/nopde/vector-web/" target="_blank">Vector Website</a>
