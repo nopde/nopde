@@ -3,6 +3,10 @@
 <!-- Badges -->
 ![](https://komarev.com/ghpvc/?username=nopde&color=red)
 
+## **Languages**
+- 🇺🇸 English
+- 🇪🇸 Spanish
+
 ## **Programming Languages and Technologies**
 
 <p align="left">
