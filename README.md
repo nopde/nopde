@@ -17,4 +17,5 @@
 </p>
 
 ## **Projects**
-- <a href="https://github.com/nopde/fast-web/" target="_blank">Fast - File Uploader</a>
+- <a href="https://github.com/nopde/space-app/" target="_blank">space-app</a>
+- <a href="https://github.com/nopde/space-web/" target="_blank">space-web</a>
