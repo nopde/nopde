@@ -19,3 +19,4 @@
 ## **Projects**
 - <a href="https://github.com/nopde/space-app/" target="_blank">space-app</a>
 - <a href="https://github.com/nopde/space-web/" target="_blank">space-web</a>
+- <a href="https://github.com/nopde/bard-ui/" target="_blank">bard-ui</a>
