@@ -7,11 +7,13 @@
 - 🇺🇸 English
 - 🇪🇸 Spanish
 
-## **Programming Languages and Technologies**
+## **Projects**
 
-<p align="left">
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' height='42px'>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' height='42px'>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' height='42px'>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' height='42px'>
-</p>
+<table>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [Space](https://github.com/nopde/space) | <img alt="Stars" src="https://img.shields.io/github/stars/nopde/space?style=flat-square&labelColor=black"/> | ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![NodeJS](https://img.shields.io/badge/NodeJS-black?logo=nodedotjs) ![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML-black?logo=html5) ![Electron](https://img.shields.io/badge/Electron-black?logo=electron)|
+| [Zaraki](https://github.com/nopde/zaraki) | <img alt="Stars" src="https://img.shields.io/github/stars/nopde/zaraki?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?logo=python) ![JSON](https://img.shields.io/badge/JSON-black?logo=json) |
+
+</table>
