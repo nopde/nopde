@@ -14,6 +14,5 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [Spaces](https://github.com/nopde/spaces) | <img alt="Stars" src="https://img.shields.io/github/stars/nopde/spaces"/> | ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript) ![NodeJS](https://img.shields.io/badge/NodeJS-black?logo=nodedotjs) ![CSS](https://img.shields.io/badge/CSS-black?logo=css3&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML-black?logo=html5) ![Electron](https://img.shields.io/badge/Electron-black?logo=electron)|
-| [Caramods](https://github.com/nopde/caramods) | <img alt="Stars" src="https://img.shields.io/github/stars/nopde/caramods"/> | ![Python](https://img.shields.io/badge/Python-black?logo=python) ![JSON](https://img.shields.io/badge/JSON-black?logo=json) |
 
 </table>
